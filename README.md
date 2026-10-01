@@ -1,6 +1,6 @@
 # 🧠 Interactive Neural Network Learning Demo
 
-## Activity 2 — Artificial Neural Network
+## Activity — Artificial Neural Network
 
 A web-based interactive neural network learning demo built with **Streamlit**.
 
